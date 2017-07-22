@@ -1,0 +1,50 @@
+@import"style.css";
+
+.contactus{
+	display:flex;
+	height:300px;
+	position:relative;
+	
+}
+.mailus,.callus,.visitus{
+	flex:1;
+	opacity:1;
+	font-size:50;
+	text-align:center;
+	position:relative;
+	display:inline-block;
+	margin:20px;
+	box-shadow:0 4px 8px 0 rgba(3,3,3,0.6);
+}
+.mailus input{
+	margin:4px;
+	width:80%;
+}
+.callus p,.visitus p{
+	font-size:25;
+	font-family: 'amiko';
+	margin:auto;
+}
+.visitus p{
+	padding:14px;
+	font-size:15;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
